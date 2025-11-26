@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-11-22T19:34:58.013589",
+  "current_count": 13,
+  "average_count": 11.065573770491802,
+  "peak_count": 15,
+  "total_entries": 20,
+  "total_exits": 10,
+  "net_flow": 10,
+  "capacity": 100,
+  "occupancy_percentage": 13.0
+}
